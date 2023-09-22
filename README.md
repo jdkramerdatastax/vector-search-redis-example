@@ -1,6 +1,6 @@
 # vector-search-redis-example
 ## Create a redis database
-[Folow this quickstart guide](https://redis.com/try-free/)
+[follow this quickstart guide](https://redis.com/try-free/)
 ## Create Hugging Face Account
 [sign up](https://huggingface.co/) for an account
 
