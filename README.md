@@ -1,7 +1,7 @@
 # vector-search-redis-example
 ## Create a redis database
 [follow this quickstart guide](https://redis.com/try-free/)
-## Create Hugging Face Account
+## Create a hugging face account
 [sign up](https://huggingface.co/) for an account
 
 [get your API token](https://huggingface.co/docs/api-inference/quicktour#get-your-api-token)
